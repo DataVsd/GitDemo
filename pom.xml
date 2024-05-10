@@ -42,7 +42,15 @@
 			<version>5.8.0</version>
 		</dependency>
 
+<<<<<<< HEAD
 		
+=======
+	<!--	<dependency>
+			<groupId>SampleFramework</groupId>
+			<artifactId>SampleFramework</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>-->
+>>>>>>> debc8d6c17cd190d4d9150b02a4e3cf876b9f6a3
 		<!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind -->
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
