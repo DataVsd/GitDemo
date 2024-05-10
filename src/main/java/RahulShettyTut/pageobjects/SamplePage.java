@@ -13,4 +13,9 @@ public void tes()
 {
 	System.out.println("hello branch developed");
 }
+@Test
+public void tes1()
+{
+	System.out.println("hello branch developed");
+}
 }
